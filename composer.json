@@ -1,5 +1,5 @@
 {
-    "name": "zburke/flysystem-box",
+    "name": "nhaai/flysystem-box",
     "description": "Flysystem adapter for Box",
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Zburke\\Flysystem\\Box\\": "src/"
+            "Nhaai\\Flysystem\\Box\\": "src/"
         }
     },
     "config": {
