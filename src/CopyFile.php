@@ -1,6 +1,6 @@
 <?php
 
-namespace Zburke\Flysystem\Box;
+namespace Nhaai\Flysystem\Box;
 
 use AdammBalogh\Box\Command\AbstractCommand;
 use AdammBalogh\Box\GuzzleHttp\Message\PostRequest;
