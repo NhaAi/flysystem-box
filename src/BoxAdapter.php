@@ -1,6 +1,6 @@
 <?php
 
-namespace Zburke\Flysystem\Box;
+namespace Nhaai\Flysystem\Box;
 
 use League\Flysystem\Adapter\AbstractAdapter;
 use League\Flysystem\Adapter\Polyfill\NotSupportingVisibilityTrait;
